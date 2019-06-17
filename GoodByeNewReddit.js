@@ -5,6 +5,8 @@
 // @author         VanishingTacos
 // @namespace      https://www.reddit.com/user/VanishingTacos/
 // @homepageURL    https://www.reddit.com/user/VanishingTacos/
+// @updateURL      https://raw.githubusercontent.com/VanishingTacos/GoodByeNewReddit/master/GoodByeNewReddit.js
+// @downloadURL	   https://raw.githubusercontent.com/VanishingTacos/GoodByeNewReddit/master/GoodByeNewReddit.js
 // @grant          none
 // @run-at         document-start
 // @include        https://new.reddit.com/*
