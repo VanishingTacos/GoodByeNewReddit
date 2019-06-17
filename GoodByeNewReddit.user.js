@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        GoodByeNewReddit
-// @version     1.0
+// @version     1.1
 // @description Auto Redirect to old.reddit.com from new.reddit.com
 // @author      VanishingTacos
 // @namespace   https://www.reddit.com/user/VanishingTacos/
