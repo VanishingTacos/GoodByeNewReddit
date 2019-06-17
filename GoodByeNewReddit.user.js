@@ -8,8 +8,8 @@
 // @include     https://new.reddit.com/*
 // @run-at      document-start
 // @grant       none
-// @updateURL   https://raw.githubusercontent.com/VanishingTacos/GoodByeNewReddit/master/GoodByeNewReddit.js
-// @downloadURL https://raw.githubusercontent.com/VanishingTacos/GoodByeNewReddit/master/GoodByeNewReddit.js
+// @updateURL   https://raw.githubusercontent.com/VanishingTacos/GoodByeNewReddit/master/GoodByeNewReddit.user.js
+// @downloadURL https://raw.githubusercontent.com/VanishingTacos/GoodByeNewReddit/master/GoodByeNewReddit.user.js
 // ==/UserScript==
 
 		window.location.replace("https://old.reddit.com" + window.location.pathname);
