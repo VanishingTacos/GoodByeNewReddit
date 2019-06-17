@@ -2,7 +2,6 @@
 // @name        GoodByeNewReddit
 // @version     1.0
 // @description Auto Redirect to old.reddit.com from new.reddit.com
-// @license     MIT
 // @author      VanishingTacos
 // @namespace   https://www.reddit.com/user/VanishingTacos/
 // @include     https://new.reddit.com/*
